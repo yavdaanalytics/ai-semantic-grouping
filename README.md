@@ -15,9 +15,9 @@ multiple differently-named tasks to hide time overruns.
 - LLM API (Claude / OpenAI)
 
 ## Project Structure
-get_token.py        # OAuth authentication with Zoho
-README.md           # You are here
-.gitignore          # Keeps credentials off GitHub
+- get_token.py        # OAuth authentication with Zoho
+- README.md           # You are here
+- .gitignore          # Keeps credentials off GitHub
 
 ## Progress
 - [x] Phase 1: OAuth Authentication
