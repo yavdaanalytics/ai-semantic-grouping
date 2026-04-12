@@ -5,7 +5,7 @@ import requests
 token = get_access_token()
 
 headers = {
-    "Authorization": f"Zoho-oauthtoken {token}"
+    "Authorization": f"Bearer {token}"
 }
 
 url = "https://projectsapi.zoho.com/restapi/portals/"
